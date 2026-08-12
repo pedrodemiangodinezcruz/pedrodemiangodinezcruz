@@ -1,76 +1,18 @@
-# Hey, I'm Demian 👋
+# Demian Cruz:
+Senior Software QA Engineer with 4+ years of experience delivering high quality software through AI-powered testing strategies, automation frameworks, and performance testing. I hold a degree in Computer Science from Tecnológico de Monterrey.📚<br><br>💼 Skills<br><br>• Test Automation & Frameworks: Selenium, Playwright, Appium, Robot Framework, Cucumber, BrowserStack<br>• Performance Testing: JMeter, Locust, Automai<br>• Development: C#, Java, JavaScript, TypeScript, .NET, Angular, Node.js, Express<br>• Data: SQL, MySQL, MongoDB<br>• Process & Collaboration: Agile/Scrum, CI/CD, Jira, Azure DevOps, API Testing, Manual Testing, Cross-team communication, Adaptable and Resilient.<br><br>👨🏽‍💻 Experience<br><br>• Lead automation and performance testing for Thomson Reuters' Tax, Audit, Accounting and CIAM applications, ensuring accuracy and reliability for professionals relying on these tools daily using Selenium, Playwright, Postman, JMeter, and Locust to validate releases across 3 environments (Sandbox, Nonprod and Production).<br>• Reduced regression testing time by 20% by building reusable automation frameworks integrated into CI/CD pipelines.<br>• Collaborate with developers, PMs, and QA peers across 4 countries in an Agile/Scrum environment to ship features on schedule ensuring 99%+ deployment success rate<br>• Mentor junior QA engineers on automation design patterns and performance testing methodologies.<br>
 
-### 🚀 Developer | Creator | Problem Solver
 
-I build cool things with code, turn ideas into products, and occasionally spend way too long fixing one missing semicolon.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/demian-cruz/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:demianks2000@gmail.com) 
 
-- 🔭 Currently working on **[your project / startup / app]**
-- 🌱 Learning **[technology you're learning]**
-- 💬 Ask me about **[your strongest skills]**
-- ⚡ Fun fact: **[something interesting about you]**
-
----
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,git,github,vscode,figma" />
-</p>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=pedrodemiangodinezcruz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=pedrodemiangodinezcruz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=pedrodemiangodinezcruz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=pedrodemiangodinezcruz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="165"
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" 
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" 
-    height="165"
-  />
-</p>
-
----
-
-## 🌟 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [Project One](https://github.com/YOUR_USERNAME/project-one) | A short, compelling explanation of what it does. | React, Node.js |
-| [Project Two](https://github.com/YOUR_USERNAME/project-two) | Another project you're proud of. | Python, AI |
-| [Project Three](https://github.com/YOUR_USERNAME/project-three) | Something fun, useful, or experimental. | Next.js, TypeScript |
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=7c3aed&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <i>"Build. Learn. Break things. Build better."</i>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
